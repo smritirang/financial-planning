@@ -538,7 +538,7 @@
                                             <action selector="reminderFieldDoneEditing" destination="3Be-oo-Hhn" eventType="touchDown" id="hlT-03-6mE"/>
                                         </connections>
                                     </button>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-06-11 at 10.49.14 PM.png" translatesAutoresizingMaskIntoConstraints="NO" id="6a6-jL-lBc">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cred.png" translatesAutoresizingMaskIntoConstraints="NO" id="6a6-jL-lBc">
                                         <rect key="frame" x="0.0" y="0.0" width="384" height="151"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <userDefinedRuntimeAttributes>
@@ -995,7 +995,6 @@
         <image name="Screen Shot 2022-06-11 at 1.31.03 PM.png" width="222" height="221"/>
         <image name="Screen Shot 2022-06-11 at 10.18.23 AM.png" width="349" height="320"/>
         <image name="Screen Shot 2022-06-11 at 10.27.33 AM.png" width="583" height="579"/>
-        <image name="Screen Shot 2022-06-11 at 10.49.14 PM.png" width="544" height="361"/>
         <image name="Screen Shot 2022-06-11 at 10.50.38 PM.png" width="696" height="439"/>
         <image name="Screen Shot 2022-06-11 at 11.04.46 AM.png" width="332" height="316"/>
         <image name="Screen Shot 2022-06-11 at 11.15.14 AM.png" width="196" height="275"/>
@@ -1006,6 +1005,7 @@
         <image name="Screen Shot 2022-06-11 at 12.19.09 PM.png" width="305" height="276"/>
         <image name="Screen Shot 2022-06-11 at 4.59.34 PM.png" width="192" height="192"/>
         <image name="arrowshape.turn.up.forward.circle" catalog="system" width="128" height="121"/>
+        <image name="cred.png" width="225" height="225"/>
         <image name="home.jpeg" width="626" height="626"/>
         <image name="pencil" catalog="system" width="128" height="113"/>
         <image name="plus" catalog="system" width="128" height="113"/>
