@@ -13,6 +13,25 @@
 		F2401A7F2854FF6100454E0D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2401A7D2854FF6100454E0D /* Main.storyboard */; };
 		F2401A812854FF6200454E0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2401A802854FF6200454E0D /* Assets.xcassets */; };
 		F2401A842854FF6200454E0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2401A822854FF6200454E0D /* LaunchScreen.storyboard */; };
+		F2401A8C285504DF00454E0D /* home.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F2401A8B285504DF00454E0D /* home.jpeg */; };
+		F2401A8E2855064400454E0D /* Screen Shot 2022-06-11 at 10.18.23 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A8D2855064400454E0D /* Screen Shot 2022-06-11 at 10.18.23 AM.png */; };
+		F2401A902855082B00454E0D /* Screen Shot 2022-06-11 at 10.27.33 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A8F2855082B00454E0D /* Screen Shot 2022-06-11 at 10.27.33 AM.png */; };
+		F2401A922855110400454E0D /* Screen Shot 2022-06-11 at 11.04.46 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A912855110400454E0D /* Screen Shot 2022-06-11 at 11.04.46 AM.png */; };
+		F2401A942855137000454E0D /* Screen Shot 2022-06-11 at 11.15.14 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A932855137000454E0D /* Screen Shot 2022-06-11 at 11.15.14 AM.png */; };
+		F2401A9628551DDF00454E0D /* Screen Shot 2022-06-11 at 11.59.53 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A9528551DDF00454E0D /* Screen Shot 2022-06-11 at 11.59.53 AM.png */; };
+		F2401A9B285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.49 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A97285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.49 PM.png */; };
+		F2401A9C285522A700454E0D /* Screen Shot 2022-06-11 at 12.19.09 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A98285522A700454E0D /* Screen Shot 2022-06-11 at 12.19.09 PM.png */; };
+		F2401A9D285522A700454E0D /* Screen Shot 2022-06-11 at 12.18.01 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A99285522A700454E0D /* Screen Shot 2022-06-11 at 12.18.01 PM.png */; };
+		F2401A9E285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.16 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401A9A285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.16 PM.png */; };
+		F2401AA028552C8700454E0D /* homescreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2401A9F28552C8700454E0D /* homescreen.swift */; };
+		F2401AA22855337900454E0D /* Screen Shot 2022-06-11 at 1.31.03 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401AA12855337800454E0D /* Screen Shot 2022-06-11 at 1.31.03 PM.png */; };
+		F2401AA42855640900454E0D /* Screen Shot 2022-06-11 at 4.59.34 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401AA32855640900454E0D /* Screen Shot 2022-06-11 at 4.59.34 PM.png */; };
+		F2401AA62855696300454E0D /* trackSpending.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2401AA52855696300454E0D /* trackSpending.swift */; };
+		F2401AA82855AF2900454E0D /* trackEarnings.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2401AA72855AF2900454E0D /* trackEarnings.swift */; };
+		F2401AAA2855B39700454E0D /* learn.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2401AA92855B39700454E0D /* learn.swift */; };
+		F2401AAE2855B64600454E0D /* Screen Shot 2022-06-11 at 10.50.38 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401AAC2855B64600454E0D /* Screen Shot 2022-06-11 at 10.50.38 PM.png */; };
+		F2401AB02855B65F00454E0D /* stock.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F2401AAF2855B65F00454E0D /* stock.jpeg */; };
+		F2401AB22855B8FB00454E0D /* Screen Shot 2022-06-11 at 10.49.14 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2401AB12855B8FB00454E0D /* Screen Shot 2022-06-11 at 10.49.14 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +43,25 @@
 		F2401A802854FF6200454E0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2401A832854FF6200454E0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2401A852854FF6200454E0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2401A8B285504DF00454E0D /* home.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = home.jpeg; sourceTree = "<group>"; };
+		F2401A8D2855064400454E0D /* Screen Shot 2022-06-11 at 10.18.23 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 10.18.23 AM.png"; sourceTree = "<group>"; };
+		F2401A8F2855082B00454E0D /* Screen Shot 2022-06-11 at 10.27.33 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 10.27.33 AM.png"; sourceTree = "<group>"; };
+		F2401A912855110400454E0D /* Screen Shot 2022-06-11 at 11.04.46 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 11.04.46 AM.png"; sourceTree = "<group>"; };
+		F2401A932855137000454E0D /* Screen Shot 2022-06-11 at 11.15.14 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 11.15.14 AM.png"; sourceTree = "<group>"; };
+		F2401A9528551DDF00454E0D /* Screen Shot 2022-06-11 at 11.59.53 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 11.59.53 AM.png"; sourceTree = "<group>"; };
+		F2401A97285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.49 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 12.17.49 PM.png"; sourceTree = "<group>"; };
+		F2401A98285522A700454E0D /* Screen Shot 2022-06-11 at 12.19.09 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 12.19.09 PM.png"; sourceTree = "<group>"; };
+		F2401A99285522A700454E0D /* Screen Shot 2022-06-11 at 12.18.01 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 12.18.01 PM.png"; sourceTree = "<group>"; };
+		F2401A9A285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.16 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 12.17.16 PM.png"; sourceTree = "<group>"; };
+		F2401A9F28552C8700454E0D /* homescreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homescreen.swift; sourceTree = "<group>"; };
+		F2401AA12855337800454E0D /* Screen Shot 2022-06-11 at 1.31.03 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 1.31.03 PM.png"; sourceTree = "<group>"; };
+		F2401AA32855640900454E0D /* Screen Shot 2022-06-11 at 4.59.34 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 4.59.34 PM.png"; sourceTree = "<group>"; };
+		F2401AA52855696300454E0D /* trackSpending.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trackSpending.swift; sourceTree = "<group>"; };
+		F2401AA72855AF2900454E0D /* trackEarnings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trackEarnings.swift; sourceTree = "<group>"; };
+		F2401AA92855B39700454E0D /* learn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learn.swift; sourceTree = "<group>"; };
+		F2401AAC2855B64600454E0D /* Screen Shot 2022-06-11 at 10.50.38 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-06-11 at 10.50.38 PM.png"; sourceTree = "<group>"; };
+		F2401AAF2855B65F00454E0D /* stock.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stock.jpeg; sourceTree = "<group>"; };
+		F2401AB12855B8FB00454E0D /* Screen Shot 2022-06-11 at 10.49.14 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-06-11 at 10.49.14 PM.png"; path = "../../Screen Shot 2022-06-11 at 10.49.14 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +98,26 @@
 				F2401A792854FF6100454E0D /* SceneDelegate.swift */,
 				F2401A7B2854FF6100454E0D /* ViewController.swift */,
 				F2401A7D2854FF6100454E0D /* Main.storyboard */,
+				F2401A9F28552C8700454E0D /* homescreen.swift */,
+				F2401AA52855696300454E0D /* trackSpending.swift */,
+				F2401AA72855AF2900454E0D /* trackEarnings.swift */,
+				F2401AA92855B39700454E0D /* learn.swift */,
 				F2401A802854FF6200454E0D /* Assets.xcassets */,
+				F2401AB12855B8FB00454E0D /* Screen Shot 2022-06-11 at 10.49.14 PM.png */,
+				F2401AAF2855B65F00454E0D /* stock.jpeg */,
+				F2401AAC2855B64600454E0D /* Screen Shot 2022-06-11 at 10.50.38 PM.png */,
+				F2401AA32855640900454E0D /* Screen Shot 2022-06-11 at 4.59.34 PM.png */,
+				F2401AA12855337800454E0D /* Screen Shot 2022-06-11 at 1.31.03 PM.png */,
+				F2401A9A285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.16 PM.png */,
+				F2401A97285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.49 PM.png */,
+				F2401A99285522A700454E0D /* Screen Shot 2022-06-11 at 12.18.01 PM.png */,
+				F2401A98285522A700454E0D /* Screen Shot 2022-06-11 at 12.19.09 PM.png */,
+				F2401A9528551DDF00454E0D /* Screen Shot 2022-06-11 at 11.59.53 AM.png */,
+				F2401A932855137000454E0D /* Screen Shot 2022-06-11 at 11.15.14 AM.png */,
+				F2401A912855110400454E0D /* Screen Shot 2022-06-11 at 11.04.46 AM.png */,
+				F2401A8F2855082B00454E0D /* Screen Shot 2022-06-11 at 10.27.33 AM.png */,
+				F2401A8D2855064400454E0D /* Screen Shot 2022-06-11 at 10.18.23 AM.png */,
+				F2401A8B285504DF00454E0D /* home.jpeg */,
 				F2401A822854FF6200454E0D /* LaunchScreen.storyboard */,
 				F2401A852854FF6200454E0D /* Info.plist */,
 			);
@@ -124,8 +181,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2401AA42855640900454E0D /* Screen Shot 2022-06-11 at 4.59.34 PM.png in Resources */,
+				F2401A8E2855064400454E0D /* Screen Shot 2022-06-11 at 10.18.23 AM.png in Resources */,
+				F2401AB22855B8FB00454E0D /* Screen Shot 2022-06-11 at 10.49.14 PM.png in Resources */,
+				F2401A902855082B00454E0D /* Screen Shot 2022-06-11 at 10.27.33 AM.png in Resources */,
+				F2401A9B285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.49 PM.png in Resources */,
+				F2401AAE2855B64600454E0D /* Screen Shot 2022-06-11 at 10.50.38 PM.png in Resources */,
+				F2401AB02855B65F00454E0D /* stock.jpeg in Resources */,
+				F2401A9628551DDF00454E0D /* Screen Shot 2022-06-11 at 11.59.53 AM.png in Resources */,
+				F2401A922855110400454E0D /* Screen Shot 2022-06-11 at 11.04.46 AM.png in Resources */,
 				F2401A842854FF6200454E0D /* LaunchScreen.storyboard in Resources */,
 				F2401A812854FF6200454E0D /* Assets.xcassets in Resources */,
+				F2401A8C285504DF00454E0D /* home.jpeg in Resources */,
+				F2401A942855137000454E0D /* Screen Shot 2022-06-11 at 11.15.14 AM.png in Resources */,
+				F2401AA22855337900454E0D /* Screen Shot 2022-06-11 at 1.31.03 PM.png in Resources */,
+				F2401A9E285522A700454E0D /* Screen Shot 2022-06-11 at 12.17.16 PM.png in Resources */,
+				F2401A9D285522A700454E0D /* Screen Shot 2022-06-11 at 12.18.01 PM.png in Resources */,
+				F2401A9C285522A700454E0D /* Screen Shot 2022-06-11 at 12.19.09 PM.png in Resources */,
 				F2401A7F2854FF6100454E0D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +209,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2401AA62855696300454E0D /* trackSpending.swift in Sources */,
+				F2401AA028552C8700454E0D /* homescreen.swift in Sources */,
+				F2401AA82855AF2900454E0D /* trackEarnings.swift in Sources */,
 				F2401A7C2854FF6100454E0D /* ViewController.swift in Sources */,
+				F2401AAA2855B39700454E0D /* learn.swift in Sources */,
 				F2401A782854FF6100454E0D /* AppDelegate.swift in Sources */,
 				F2401A7A2854FF6100454E0D /* SceneDelegate.swift in Sources */,
 			);
